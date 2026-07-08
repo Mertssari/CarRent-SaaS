@@ -1,0 +1,33 @@
+# ---- Ortam / Gizli yapılandırma ----
+config/config.php          # Gerçek DB kimlik bilgileri (asla commit edilmez)
+.env
+.env.*
+
+# ---- Bağımlılıklar ----
+/vendor/
+node_modules/
+
+# ---- Loglar & geçici dosyalar ----
+*.log
+error_log
+logs/
+tmp/
+*.tmp
+
+# ---- Yüklenen dosyalar (kullanıcı içeriği) ----
+/uploads/*
+!/uploads/.gitkeep
+
+# ---- IDE / editör ----
+.vscode/
+.idea/
+*.sublime-*
+
+# ---- İşletim sistemi ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Derleme / cache ----
+*.cache
+composer.lock
