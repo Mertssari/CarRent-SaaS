@@ -5,6 +5,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20%2B%20AJAX-F7DF1E?logo=javascript&logoColor=black)
 
+### 🖥️ Proje Arayüzü
+![CarRent Ana Sayfa](assets/dashbord.png)
+![CarRent Ödeme Ekranı](assets/ödeme.png)
+![CarRent adminPaneli](assets/adminPaneli.png)
+![CarRent araçDuzenleme](assets/araçDuzenleme.png)
+![CarRent durum](assets/durum.png)
+![CarRent giriş](assets/giriş.png)
+![CarRent profil](assets/profil.png)
+
 An enterprise-grade, end-to-end **car rental and reservation platform**.
 Includes a customer-facing showcase, an advanced checkout flow, and a fully featured admin panel.
 All critical business rules are validated **on the backend** — the frontend is never trusted.
