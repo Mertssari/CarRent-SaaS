@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20%2B%20AJAX-F7DF1E?logo=javascript&logoColor=black)
 
-### 🖥️ Proje Arayüzü
+### 🖥️ Project Interface
 ![CarRent Ana Sayfa](assets/dashbord.png)
 ![CarRent Ödeme Ekranı](assets/ödeme.png)
 ![CarRent adminPaneli](assets/adminPaneli.png)
